@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2026-10-29",
+  "projects": [
+    { "name": "Alfred Local Multi-Agent AI", "note": "LangGraph supervisor + 5 agents", "status": "building" },
+    { "name": "Brother-Eye Job Agent", "note": "10-stage agentic pipeline", "status": "built" },
+    { "name": "ProjectDNA Knowledge Platform", "note": "Corrective-RAG + knowledge graph", "status": "built" }
+  ],
+  "certifications": [
+    { "title": "Prompt Engineering for ChatGPT", "issuer": "DeepLearning.AI", "year": "2025", "status": "earned" },
+    { "title": "Machine Learning Specialization", "issuer": "Vodafone Idea Foundation", "year": "2024", "status": "earned" }
+  ],
+  "internships": [
+    { "role": "AI/ML Software Engineer Intern", "company": "Kingscote Informatics", "period": "Aug 2025 - Jan 2026", "status": "completed" }
+  ],
+  "gigs": [],
+  "waitlist": { "count": 0 }
+}
